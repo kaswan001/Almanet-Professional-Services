@@ -1,5 +1,7 @@
 ### Greedy Algorithm: 
 
+## Subheader......
+.........
 A **Greedy Algorithm** is an algorithmic approach used to solve optimization problems by choosing the locally optimal solution at each step, with the hope that these local choices will lead to a globally optimal solution. It is often applied in problems where we need to maximize or minimize some value or find a subset of items that satisfies a particular condition.
 
 ### Greedy Algorithm Strategy:
